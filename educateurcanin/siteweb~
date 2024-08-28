@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="fr">
+
+  <head>
+
+    <meta charset="utf-8" />
+
+    <meta name="viewport" content="width=device-width" />
+
+    <title>Ma page</title>
+
+	<style>
+
+		p {color:blue; font-size:14px;}
+
+		body { 
+  
+ 	 		background-image: url("./mikey.png");
+ 	 		background-attachment: fixed;
+      
+		}
+
+		.presentation { 
+  
+			 margin-left: 400px;
+  			margin-right: 400px;
+			margin-top: 300px;
+  			border: solid;
+  			background: white;
+  			color: black;
+  			font-size: 15pt;
+  			
+      
+		}
+
+	</style>
+
+  </head>
+
+  		<body>
+
+
+			<p class="presentation"><br>
+			<br>Le rôle de l'éducateur canin est de donner des clefs d'apprentissage
+			au maitre afin qu'il puisse éduquer son chien de la meilleure manière
+ 			possible. France : brevet professionnel éducateur canin. Il existe également
+			un grand nombre d'écoles privées.
+
+			<a href="https://fr.wikipedia.org/wiki/%C3%89ducateur_canin" >aller vers wikipedia</a>
+			<br>
+			<br>
+
+			Je suis éducateur canin diplômé et travaille dans les alentours de Miramas vous pouvez me contacter
+			par mail : a.giannuzzi13@gmail.com
+
+			<br>
+			<br>
+
+			</p>
+  		</body>
+
+</html>
